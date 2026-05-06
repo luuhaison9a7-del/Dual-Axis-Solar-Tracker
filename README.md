@@ -1,2 +1,2 @@
 # Dual-Axis-Solar-Tracker
- Arduino-based 2-axis solar tracking system
+ Hệ thống theo dõi ánh sáng mặt trời 2 trục dùng Arduino
