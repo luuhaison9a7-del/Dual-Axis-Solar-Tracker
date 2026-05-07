@@ -9,6 +9,7 @@ Dự án mô phỏng hệ thống theo dõi và bám sát ánh sáng mặt trờ
 ## Hardware Stack
 * Arduino Uno R3
 * 4 x LDR (GL5528)
+* 4 x Trở (10K ohm, 1/4W sai số 5% 250V)
 * 2 x Servo (SG90 180 độ)
 * Formex (tự cắt ghép khung)
 * Breadboard
